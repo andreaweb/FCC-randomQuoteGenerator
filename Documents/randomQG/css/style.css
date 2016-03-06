@@ -1,0 +1,38 @@
+body{
+  background:#111;
+}
+main{
+  margin-top:40px;
+  background-color:#eee;
+  padding-bottom:20px;
+}
+#result{
+  background-color:#fff;
+  font-style:italic;
+  height:80px;
+  margin:10px 0;
+  padding:15px;
+  font-size:16px;
+}
+button{
+  background-color:#EE4037;
+  color:#fff;
+  height: 36px;
+}
+button:hover{
+  background-color:#F39946;
+  color:#fff;
+}
+.twitter{
+  background-color:#1b95e0;
+}
+.twitter a{
+    color:#fff;
+}
+.twitter:hover{
+  background-color:#1b95e0;
+  color:#fff;
+}
+button:visited, .twitter:visited{
+  color:#fff !important;
+}
